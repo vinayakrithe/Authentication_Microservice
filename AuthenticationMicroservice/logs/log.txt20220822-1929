@@ -1,0 +1,9 @@
+2022-08-22 19:29:06,081 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2022-08-22 19:29:06,772 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2022-08-22 19:29:06,863 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2022-08-22 19:29:06,866 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2022-08-22 19:29:06,918 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\912682\FSE0\Backend\AuthenticationMicroservice\AuthenticationMicroservice
+2022-08-22 19:29:06,919 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\912682\FSE0\Backend\AuthenticationMicroservice\AuthenticationMicroservice
+2022-08-22 19:29:27,652 INFO  AuthenticationMicroservice.Controllers.UsersController.MoveNext [28] - MESSAGE:  Http POST Request From Authentication method of: UsersController
+2022-08-22 19:29:30,122 INFO  AuthenticationMicroservice.Repository.UserRepository.MoveNext [55] - MESSAGE: JWT Token successfuly generated : From Authenticate method of: UserRepository
+2022-08-22 19:29:30,124 INFO  AuthenticationMicroservice.Controllers.UsersController.MoveNext [36] - MESSAGE:  Token successfully returned from Authentication method of: UsersController
