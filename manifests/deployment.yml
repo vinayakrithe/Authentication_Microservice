@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: vinayakritheauthenticationmicroservice 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: vinayakritheauthenticationmicroservice
+  template:
+    metadata:
+      labels:
+        app: vinayakritheauthenticationmicroservice 
+    spec:
+      containers:
+        - name: vinayakritheauthenticationmicroservice 
+          image: pmscontainerregistery.azurecr.io/vinayakritheauthenticationmicroservice
+          ports:
+          - containerPort: 80
